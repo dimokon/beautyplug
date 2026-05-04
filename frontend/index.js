@@ -6,3 +6,7 @@ fetch("http://localhost:3000/users")
   .catch((error) => {
     console.error("Error fetching users:", error);
   });
+
+  // react js - library -- combine html and javascript -- jsx --- dom - virtual dom.
+  // SEO --- 
+  // ejs --

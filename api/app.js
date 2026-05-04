@@ -25,7 +25,7 @@ app.get("/service-providers", (req, res) => {
     }
   });
 });
-// create  - post router for service providers, get route for indivial/single providers, put route for service providers. 
+// create  - post router for service providers, get route for indivial/single providers, put route for service providers.
 
 // CRUD OPERATIONS- CREATE, READ, UPDATE, DELETE
 app.get("/users", (req, res) => {
